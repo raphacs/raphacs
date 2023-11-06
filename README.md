@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/raphacs/raphacs/assets/rapha.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/raphacs/raphacs/blob/main/assets/rapha.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using React and Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on applications development.</p>&nbsp;
