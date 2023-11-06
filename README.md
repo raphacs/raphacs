@@ -4,10 +4,13 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using React and Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on applications development.</p>&nbsp;
  &nbsp;
-
+ 
+<div  align="center" style="margin-bottom:100px">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=raphacs)](https://git.io/streak-stats)
+ &nbsp;
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=raphacs&show_icons=true&theme=radical&layout=compact" />
-
+ </div>
+ 
  &nbsp;
  &nbsp;
 
